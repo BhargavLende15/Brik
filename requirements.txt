@@ -1,0 +1,31 @@
+# Data science
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+
+# Machine learning and forecasting
+scikit-learn
+statsmodels
+xgboost
+joblib
+
+# Backend API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Database
+sqlalchemy
+psycopg[binary]
+
+# Configuration
+python-dotenv
+
+# Dashboard
+streamlit
+
+# Testing
+pytest
+httpx
